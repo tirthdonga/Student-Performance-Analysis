@@ -19,7 +19,6 @@
 - [📌 Overview](#-overview)
 - [🎯 Objective](#-objective)
 - [📦 Data Model](#-data-model)
-- [✨ Features](#-features)
 - [🏗️ Repository Structure](#️-repository-structure)
 - [🗂️ Report Pages](#️-report-pages)
   - [🎓 Page 1: Academic Performance](#-academic-performance)
@@ -81,27 +80,6 @@ The model separates student details, scores, attendance and behavior data into i
 **Data source:** Student academic performance project data.
 
 **Note:** The supplied screenshots do not show the original dataset source, source file names, row count, column definitions or complete table relationships. These details are not assumed in this documentation.
-
----
-
-# ✨ Features
-
-- 🎓 [**Total Students KPI**](#-academic-performance)
-- 📊 [**Average Score KPI**](#-academic-performance) 
-- 🟢 [**Attendance KPI**](#-academic-performance) 
-- 📚 [**Average Score by Subject and Class**](#-academic-performance) 
-- 📈 [**Performance Trend by Term**](#-academic-performance)
-- 📋 [**Student-Wise Performance Table**](#-academic-performance)
-- 🎛️ [**Class Filter**](#-filters--slicers) 
-- 🅰️ [**Section Filter**](#-filters--slicers) 
-- 📖 [**Subject Filter**](#-filters--slicers) 
-- 🗓️ [**Term Filter**](#-filters--slicers)
-- 🎨 [**Conditional Score Formatting**](#-academic-performance) 
-- 🧭 [**Academic / Behavior Navigation**](#️-report-pages) 
-- 🧠 [**Behavior KPIs**](#-behavior) 
-- 🍩 [**Behavior Type Distribution**](#-behavior)
-- 📊 [**Attendance by Class Group**](#-behavior)
-- 📋 [**Student-Wise Behavior Table**](#-behavior)
 
 ---
 
