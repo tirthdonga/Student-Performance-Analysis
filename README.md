@@ -304,14 +304,6 @@ Based on the values visible in the supplied Academic dashboard screenshot:
 
 ---
 
-# 🎥 Video Walkthrough
-
-Add your project demonstration video link here.
-
-`[Add YouTube or LinkedIn video link]`
-
----
-
 # 📈 Learning Outcomes
 
 Through this project, I practiced:
