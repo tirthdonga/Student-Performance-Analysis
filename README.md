@@ -86,22 +86,22 @@ The model separates student details, scores, attendance and behavior data into i
 
 # ✨ Features
 
-- 🎓 [**Total Students KPI**](#-academic-performance) — Displays the total student count.
-- 📊 [**Average Score KPI**](#-academic-performance) — Displays the overall average score.
-- 🟢 [**Attendance KPI**](#-academic-performance) — Displays the overall attendance percentage.
-- 📚 [**Average Score by Subject and Class**](#-academic-performance) — Compares English, Geography, History, Math and Science across class groups.
-- 📈 [**Performance Trend by Term**](#-academic-performance) — Tracks average performance across Term 1, Term 2 and Term 3.
-- 📋 [**Student-Wise Performance Table**](#-academic-performance) — Displays student name, class, average score and performance category.
-- 🎛️ [**Class Filter**](#-filters--slicers) — Filters the report by class.
-- 🅰️ [**Section Filter**](#-filters--slicers) — Allows selection of Sections A, B and C.
-- 📖 [**Subject Filter**](#-filters--slicers) — Filters by the available subjects.
-- 🗓️ [**Term Filter**](#-filters--slicers) — Allows selection of T1, T2 and T3.
-- 🎨 [**Conditional Score Formatting**](#-academic-performance) — Uses score colors to distinguish score ranges.
-- 🧭 [**Academic / Behavior Navigation**](#️-report-pages) — Provides navigation between the two dashboard views.
-- 🧠 [**Behavior KPIs**](#-behavior) — Attendance, behavior records, and absences.
-- 🍩 [**Behavior Type Distribution**](#-behavior) — Compares five recorded behavior types.
-- 📊 [**Attendance by Class Group**](#-behavior) — Compares attendance across class groups.
-- 📋 [**Student-Wise Behavior Table**](#-behavior) — Shows attendance and behavior counts by student.
+- 🎓 [**Total Students KPI**](#-academic-performance)
+- 📊 [**Average Score KPI**](#-academic-performance) 
+- 🟢 [**Attendance KPI**](#-academic-performance) 
+- 📚 [**Average Score by Subject and Class**](#-academic-performance) 
+- 📈 [**Performance Trend by Term**](#-academic-performance)
+- 📋 [**Student-Wise Performance Table**](#-academic-performance)
+- 🎛️ [**Class Filter**](#-filters--slicers) 
+- 🅰️ [**Section Filter**](#-filters--slicers) 
+- 📖 [**Subject Filter**](#-filters--slicers) 
+- 🗓️ [**Term Filter**](#-filters--slicers)
+- 🎨 [**Conditional Score Formatting**](#-academic-performance) 
+- 🧭 [**Academic / Behavior Navigation**](#️-report-pages) 
+- 🧠 [**Behavior KPIs**](#-behavior) 
+- 🍩 [**Behavior Type Distribution**](#-behavior)
+- 📊 [**Attendance by Class Group**](#-behavior)
+- 📋 [**Student-Wise Behavior Table**](#-behavior)
 
 ---
 
@@ -160,7 +160,7 @@ The **Academic** view provides an overview of student academic results through K
 
 Add your Academic dashboard screenshot to `Assets/Images/Academic_Performance.png`.
 
-<img src="Assets/Images/Academic_Performance.png" alt="Student Academic Performance Dashboard">
+<img src="Assets/Images/Page-1.png" alt="Student Academic Performance Dashboard">
 
 ---
 
@@ -219,7 +219,7 @@ The table includes **Name**, **Class**, **Attendance %**, and **Behavior** colum
 
 Add your Behavior dashboard screenshot to `Assets/Images/Behavior.png`.
 
-<img src="Assets/Images/Behavior.png" alt="Student Behavior Dashboard">
+<img src="Assets/Images/Page-2.png" alt="Student Behavior Dashboard">
 
 ---
 
