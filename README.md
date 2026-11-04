@@ -110,8 +110,9 @@ The model separates student details, scores, attendance and behavior data into i
 ```text
 📦 Student_Academic_Performance_Dashboard
 │
-├── 📊 Student Academic Performance Dashboard.pbix
-│                                      → Power BI dashboard file
+├── 📊 Student Academic Performance Dashboard.pbix    → Power BI dashboard file
+│
+├── 📁 Dataset                        → CSV file for data 
 │
 ├── 📁 Assets
 │   └── 📁 Images
